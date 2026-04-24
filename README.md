@@ -1,24 +1,24 @@
-# Hi, I'm David 👋
+# Hey
 
 Full stack developer from Israel.
 Passionate about new software and tech.
 Always trying out and experimenting with new stuff
 
 
----
 
 
-## 🛠️ Tools, Tech & Skills
+## Skills
 
 **Main stack:** React · NestJS · TypeScript · Tailwind CSS  
 **Also familiar with:** Java · OOP · C · Python
 
 
----
 
 
-## 🎯 A bit about me
+## Hobbies
 
-- 📈 Interested in trading and economics
-- 🎬 Big on movies and TV shows — favorites include Game of Thrones and Star Wars
-- 🎮 Always down for a good game
+
+- Trading and economics
+- Big on movies and TV shows — favorites include Game of Thrones and Star Wars
+- Gaming
+- Music
