@@ -1,15 +1,21 @@
 # Hi, I'm David 👋
 
-Full stack developer from Israel. Passionate about new software and tech. Always trying out and experimenting with new stuff
+Full stack developer from Israel.
+Passionate about new software and tech.
+Always trying out and experimenting with new stuff
+
 
 ---
+
 
 ## 🛠️ Tools, Tech & Skills
 
 **Main stack:** React · NestJS · TypeScript · Tailwind CSS  
 **Also familiar with:** Java · OOP · C · Python
 
+
 ---
+
 
 ## 🎯 A bit about me
 
