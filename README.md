@@ -1,22 +1,18 @@
-# Hey there!
+# David Israelashvili
 
-I'm David, a full stack developer from Israel.  
-  
-Passionate about new software and tech.  
-  
-Always trying out and experimenting with new stuff.
+**Full stack developer based in Israel.**
 
+I've worked on projects across a range of areas — full stack web applications,
+APIs and backend services among them. I follow new technologies and tools
+closely, and I'd rather learn one by building something real with it than by
+reading about it.
 
-## Skills
+## Tech
 
-**Main stack:** React · NestJS · TypeScript · Tailwind CSS  
-  
-**Also familiar with:** Java · OOP · C · Python
+React · TypeScript · NestJS · Tailwind CSS · Java · Python · C · Object-oriented design
 
+## Outside of code
 
-## Hobbies
-
-- Trading and economics
-- Big on movies and TV shows — favorites include Game of Thrones and Star Wars
-- Gaming
-- Music
+- **Markets and economics** — trading, and the reasoning behind it
+- **Film and television** — Game of Thrones and Star Wars are the long-standing favorites
+- **Gaming and music**
